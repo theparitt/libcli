@@ -1,5 +1,3 @@
-#summary libcli Developer's Reference
-
 = Details =
 
 Add your content here.  Format your content with:
