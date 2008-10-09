@@ -1,4 +1,4 @@
-# libcli Developer's Reference
+#summary libcli Developer's Reference
 
 = Details =
 
