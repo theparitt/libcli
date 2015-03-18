@@ -1,0 +1,11 @@
+# Libcli has moved #
+
+Libcli is now being hosted at [github](http://github.com/dparrish/libcli).
+
+
+
+
+
+Libcli provides a shared library for including a Cisco-like command-line interface into other software.
+
+It's a telnet interface which supports command-line editing, history, authentication and callbacks for a user-definable function tree.
